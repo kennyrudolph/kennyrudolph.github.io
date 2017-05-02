@@ -1,0 +1,16 @@
+body {
+  font-family: Helvetica, "sans serif";
+  color: black;
+}
+
+h2 {
+  color: darkgray;
+}
+
+h2 {
+  font-weight: lighter;
+}
+
+.question {
+  font-style: italic;
+}
